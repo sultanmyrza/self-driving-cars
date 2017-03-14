@@ -23,9 +23,6 @@ For this project, a great writeup should provide a detailed response to the "Ref
 
 3. Suggest possible improvements
 
-We encourage using images in your writeup to demonstrate how your pipeline works.  
-
-All that said, please be concise!  We're not looking for you to write a book here: just a brief description.
 
 
 The Project
@@ -44,7 +41,5 @@ Jupyter is an Ipython notebook where you can run blocks of code and see results 
 `> jupyter notebook`
 
 A browser window will appear showing the contents of the current directory.  Click on the file called "P1.ipynb".  Another browser window will appear displaying the notebook.  Follow the instructions in the notebook to complete the project.  
-
-**Step 3:** Complete the project and submit both the Ipython notebook and the project writeup
 
 
